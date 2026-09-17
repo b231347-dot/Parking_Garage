@@ -1,0 +1,1 @@
+"""Parking garage application package."""
